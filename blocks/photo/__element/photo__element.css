@@ -1,0 +1,7 @@
+.photo__element {
+    display: grid;
+    grid-template-columns: 255px 255px 255px;
+    background-color: #000;
+    gap: 20px;
+    margin: 20px auto;
+}

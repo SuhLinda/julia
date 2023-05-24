@@ -1,0 +1,8 @@
+.footer__social-network {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+
+}

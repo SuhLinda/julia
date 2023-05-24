@@ -1,0 +1,7 @@
+.header__image {
+    background-color: #2A2C2F;
+    max-width: 1024px;
+    max-height: 1024px;
+    margin: 0;
+    display: flex;
+}
