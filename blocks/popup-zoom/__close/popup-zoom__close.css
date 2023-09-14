@@ -1,0 +1,5 @@
+.popup-zoom__close {
+  display: flex;
+  position: relative;
+  top: 0;
+}

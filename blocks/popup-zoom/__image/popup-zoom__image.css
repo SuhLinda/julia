@@ -1,0 +1,9 @@
+.popup-zoom__image {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  object-fit: contain;
+  max-width: 75vw;
+  max-height: 75vh;
+  margin: 8px 0 10px;
+}
