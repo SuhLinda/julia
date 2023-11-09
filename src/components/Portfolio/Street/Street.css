@@ -1,0 +1,5 @@
+.street {
+  display: flex;
+  flex-direction: column;
+  color: #808080;
+}

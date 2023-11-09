@@ -1,0 +1,5 @@
+.wedding {
+  display: flex;
+  flex-direction: column;
+  color: #808080;
+}

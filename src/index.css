@@ -1,0 +1,39 @@
+/* vendor */
+
+@import url(../src/vendor/normalize.css);
+@import url(../src/vendor/fonts.css);
+
+/* App */
+
+@import url(../src/components/App/App.css);
+
+/* Header */
+
+@import url(../src/components/Header/Header.css);
+@import url(../src/components/Navigation/Navigation.css);
+
+/* Main */
+
+@import url(../src/components/Main/Main.css);
+@import url(../src/components/Main/Profile/Profile.css);
+@import url(../src/components/Main/Photo/Photo.css);
+
+
+/* Footer */
+
+@import url(../src/components/Footer/Footer.css);
+
+/* Portfolio */
+
+@import url(../src/components/Portfolio/Portfolio.css);
+@import url(../src/components/Portfolio/Wedding/Wedding.css);
+@import url(../src/components/Portfolio/Street/Street.css);
+@import url(../src/components/Portfolio/Studio/Studio.css);
+@import url(../src/components/Portfolio/Subject/Subject.css);
+@import url(../src/components/Portfolio/Showroom/Showroom.css);
+@import url(../src/components/Card/Card.css);
+
+@import url(../src/components/Price/Price.css);
+@import url(../src/components/Certificate/Certificate.css);
+
+@import url(../src/components/Popup/Popup.css);
