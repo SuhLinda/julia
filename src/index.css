@@ -1,39 +1,31 @@
 /* vendor */
-
 @import url(../src/vendor/normalize.css);
 @import url(../src/vendor/fonts.css);
 
 /* App */
-
-@import url(../src/components/App/App.css);
+@import url(Components/App/App.css);
 
 /* Header */
-
-@import url(../src/components/Header/Header.css);
-@import url(../src/components/Navigation/Navigation.css);
+@import url(Components/Header/Header.css);
+@import url(Components/Header/Navigation/Navigation.css);
 
 /* Main */
+@import url(Components/Main/Main.css);
+@import url(Components/Main/Profile/Profile.css);
+@import url(Components/Portfolio/Photo/Photo.css);
 
-@import url(../src/components/Main/Main.css);
-@import url(../src/components/Main/Profile/Profile.css);
-@import url(../src/components/Main/Photo/Photo.css);
+/* Portfolio */
+@import url(Components/Portfolio/Portfolio.css);
+@import url(Components/Portfolio/Photo/Photo.css);
+
+@import url(Components/Portfolio/Card/Card.css);
+
+@import url(Components/Price/Price.css);
+@import url(Components/Price/WeddingPrice/WeddingPrice.css);
+@import url(Components/Certificate/Certificate.css);
+
+@import url(Components/Popup/Popup.css);
 
 
 /* Footer */
-
-@import url(../src/components/Footer/Footer.css);
-
-/* Portfolio */
-
-@import url(../src/components/Portfolio/Portfolio.css);
-@import url(../src/components/Portfolio/Wedding/Wedding.css);
-@import url(../src/components/Portfolio/Street/Street.css);
-@import url(../src/components/Portfolio/Studio/Studio.css);
-@import url(../src/components/Portfolio/Subject/Subject.css);
-@import url(../src/components/Portfolio/Showroom/Showroom.css);
-@import url(../src/components/Card/Card.css);
-
-@import url(../src/components/Price/Price.css);
-@import url(../src/components/Certificate/Certificate.css);
-
-@import url(../src/components/Popup/Popup.css);
+@import url(Components/Footer/Footer.css);
